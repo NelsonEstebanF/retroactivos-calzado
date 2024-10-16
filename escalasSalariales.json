@@ -1,0 +1,42 @@
+{
+    "agosto": {
+        "3": {
+            "v_hora": 3132,
+            "presentismo": 47739,
+            "asistencia perfecta": 42867
+        },
+        "4": {
+            "v_hora": 3523,
+            "presentismo": 50672,
+            "asistencia_perfecta": 43876
+        },
+        "merienda": 393
+    },
+     "septiembre": {
+        "3": {
+            "v_hora": 3257,
+            "presentismo": 49649,
+            "asistencia perfecta": 44582
+        },
+        "4": {
+            "v_hora": 3664,
+            "presentismo": 52699,
+            "asistencia_perfecta": 45631
+        },
+        "merienda": 409
+    },
+    "octubre": {
+        "3": {
+            "v_hora": 3383,
+            "presentismo": 51570,
+            "asistencia perfecta": 46307
+        },
+        "4": {
+            "v_hora": 3805,
+            "presentismo": 54739,
+            "asistencia_perfecta": 47396
+        },
+        "merienda": 425
+    }
+    
+}
